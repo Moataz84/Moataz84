@@ -30,7 +30,7 @@ I'm Moataz Ghazy, a passionate web developer.
 
 These are my most out-standing projects. 
 
-<div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 15px;">
   <p>
     <a href="https://github.com/Moataz84/forum">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum" />
