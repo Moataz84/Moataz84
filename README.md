@@ -10,7 +10,7 @@ I'm Moataz Ghazy, a passionate web developer.
 <br>
 
 # 💻 Technical Skills
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
