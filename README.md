@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=moataz84.moataz84)](https://github.com/Moataz84/Moataz84)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=moataz84.moataz84)](https://github.com/Moataz84)
 
 I'm Moataz Ghazy, a passionate web developer.
 
@@ -30,16 +30,20 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 <div>
-  <p>
-    <a href="https://github.com/Moataz84/huskytv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Moataz84/facial-recognition">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Moataz84/huskytv">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Moataz84/facial-recognition">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
