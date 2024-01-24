@@ -4,8 +4,9 @@
 
 I'm Moataz Ghazy, a passionate web developer.
 
-- I do full stack web development using the MERN stack in Next JS.
-- Sometimes I develop software in Python.
+- I do full stack web development in Node JS.
+- Sometimes I use the MERN stack, Next JS, or just Express JS.
+- I also develop software in Python.
 
 <br>
 
