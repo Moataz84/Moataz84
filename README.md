@@ -29,7 +29,7 @@ I'm Moataz Ghazy, a passionate web developer.
 
 # Featured Projects
 
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/Moataz84/huskytv">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
