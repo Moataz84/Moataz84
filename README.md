@@ -38,6 +38,15 @@ I'm Moataz Ghazy, a passionate web developer.
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
     </a>
   </p>
+  <br>
+  <p>
+    <a href="https://github.com/Moataz84/athleticstv">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=athleticstv" />
+    </a>
+    <a href="https://github.com/Moataz84/attendance">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=attendance" />
+    </a>
+  </p>
 </div>
 
 <br>
