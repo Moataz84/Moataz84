@@ -30,7 +30,7 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 <div>
-  <table frame="box">
+  <table>
     <tr>
       <td>
         <a href="https://github.com/Moataz84/huskytv">
