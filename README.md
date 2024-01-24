@@ -30,12 +30,12 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 <div style="display: flex">
-  <div style="flex: 1">
+  <div markdown="1">
     <a href="https://github.com/Moataz84/huskytv">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
     </a>
   </div>
-  <div style="flex: 1">
+  <div markdown="1">
     <a href="https://github.com/Moataz84/facial-recognition">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
     </a>
