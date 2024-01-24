@@ -29,22 +29,17 @@ I'm Moataz Ghazy, a passionate web developer.
 
 # Featured Projects
 
-<div>
-  <table>
-    <tr>
-      <td>
-          <a href="https://github.com/Moataz84/huskytv">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
-          </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          <a href="https://github.com/Moataz84/facial-recognition">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
-          </a>
-      </td>
-    </tr>
+<div style="display: flex">
+  <div style="flex: 1">
+    <a href="https://github.com/Moataz84/huskytv">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
+    </a>
+  </div>
+  <div style="flex: 1">
+    <a href="https://github.com/Moataz84/facial-recognition">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
+    </a>
+  </div>
 </div>
 
 <br>
