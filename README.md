@@ -31,12 +31,12 @@ I'm Moataz Ghazy, a passionate web developer.
 
 <div>
   <span>
-    <a href="https://github.com/Moataz84/huskytv">
+    <a href="https://github.com/Moataz84/huskytv" color="#fff">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
     </a>
   </span>
   <span>
-    <a href="https://github.com/Moataz84/facial-recognition">
+    <a href="https://github.com/Moataz84/facial-recognition" color="#fff">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
     </a>
   </span>
