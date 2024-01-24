@@ -29,8 +29,6 @@ I'm Moataz Ghazy, a passionate web developer.
 
 # Featured Projects
 
-These are my most out-standing projects. 
-
 <div>
   <span>
     <a href="https://github.com/Moataz84/huskytv">
