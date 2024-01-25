@@ -30,8 +30,20 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 
-<span style="display:block" class="note" align="center">[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum)](https://github.com/Moataz84/forum)</span>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum)](https://github.com/Moataz84/forum)
 
+<br>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com)](https://github.com/Moataz84/free-sitemaps.com)
+
+<div align="center">
+<a href="https://github.com/Moataz84/free-sitemaps.com" style="text-decoration: none;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com" />
+</a>
+<a href="https://github.com/Moataz84/free-sitemaps.com">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com" />
+</a>
+</div>
 <br>
 
 # Contact
