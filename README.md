@@ -21,7 +21,7 @@ I'm Moataz Ghazy, a passionate web developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="30px"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="30px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"/>                   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px">                   
 </div>
 
 <br>
@@ -30,16 +30,8 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 <div align="center">
-  <p>
-    <a href="https://github.com/Moataz84/chat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat" />
-    </a>
-    <a href="https://github.com/Moataz84/forum">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum" />
-    </a>
-  </p>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum)](https://github.com/Moataz84/forum)
 </div>
-
 <br>
 
 # Contact
