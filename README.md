@@ -29,9 +29,9 @@ I'm Moataz Ghazy, a passionate web developer.
 
 # Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum" />
+
+<div markdown="1">
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat)
 </div>
 
 <br>
