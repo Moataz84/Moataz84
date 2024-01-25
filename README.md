@@ -36,14 +36,6 @@ I'm Moataz Ghazy, a passionate web developer.
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com)](https://github.com/Moataz84/free-sitemaps.com)
 
-<div align="center">
-<a href="https://github.com/Moataz84/free-sitemaps.com" style="text-decoration: none;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com" />
-</a>
-<a href="https://github.com/Moataz84/free-sitemaps.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com" />
-</a>
-</div>
 <br>
 
 # Contact
