@@ -30,11 +30,7 @@ I'm Moataz Ghazy, a passionate web developer.
 # Featured Projects
 
 
-<span class="note" style="display:block" align="center">[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum)](https://github.com/Moataz84/forum)</span>
-
-<br>
-
-<span class="note" style="display:block" align="center">[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com)](https://github.com/Moataz84/free-sitemaps.com)</span>
+<span style="display:block" class="note" align="center">[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat)](https://github.com/Moataz84/chat) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum)](https://github.com/Moataz84/forum)</span>
 
 <br>
 
