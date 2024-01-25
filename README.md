@@ -31,20 +31,11 @@ I'm Moataz Ghazy, a passionate web developer.
 
 <div align="center">
   <p>
-    <a href="https://github.com/Moataz84/huskytv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv" />
+    <a href="https://github.com/Moataz84/chat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=chat" />
     </a>
-    <a href="https://github.com/Moataz84/facial-recognition">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=facial-recognition" />
-    </a>
-  </p>
-  <br>
-  <p>
-    <a href="https://github.com/Moataz84/athleticstv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=athleticstv" />
-    </a>
-    <a href="https://github.com/Moataz84/attendance">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=attendance" />
+    <a href="https://github.com/Moataz84/forum">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=forum" />
     </a>
   </p>
 </div>
