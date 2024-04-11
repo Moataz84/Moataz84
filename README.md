@@ -4,7 +4,7 @@
 
 I'm Moataz Ghazy, a passionate web developer.
 
-- I do full stack web development in Node JS.
+- I do full-stack web development in Node JS.
 - Sometimes I use the MERN stack, Next JS, or just Express JS.
 - I also develop software in Python.
 
@@ -34,7 +34,7 @@ I'm Moataz Ghazy, a passionate web developer.
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=free-sitemaps.com)](https://github.com/Moataz84/free-sitemaps.com)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv)
 
 <br>
 
