@@ -34,7 +34,7 @@ I'm Moataz Ghazy, a passionate web developer.
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=huskytv)](https://github.com/Moataz84/huskytv) [![](https://github-readme-stats.vercel.app/api/pin/?username=Moataz84&repo=attendance-facial-recognition)](https://github.com/Moataz84/attendance-facial-recognition)
 
 <br>
 
